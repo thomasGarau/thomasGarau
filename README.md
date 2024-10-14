@@ -15,7 +15,7 @@
 ## 🚀 Projets récents
 
 - [**Trackmates**](https://github.com/thomasGarau/TrackMates) : Application éducative qui combine intelligence artificielle et sciences cognitives pour offrir des méthodes d'apprentissage personnalisées. Backend en Python (Flask) et JavaScript (Node) + express, frontend en React JS.
-- 
+
 - [**Crudité**](https://github.com/thomasGarau/Crudite) : Site e-commerce basique avec un espace admin et client, développé avec Node.js, Express et Sequelize pour le backend, et trois versions front identiques en Vue.js, Angular TS et React JS.
 
 - [**Projet Cloud**](https://github.com/thomasGarau/projet_cloud) : Plateforme de stockage cloud avec compression automatique des fichiers, développée avec React JS pour le frontend et Python (Flask) pour le backend.
